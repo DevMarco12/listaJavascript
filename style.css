@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300;700&display=swap');
+
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+button {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+#navbar {
+    background-color: lightgray;
+    font-size: 20px;
+    padding: 5px;
+}
+
+#formDaCalculadora label {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#formDaCalculadora input {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#formDaCalculadora .botao {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+#exercicio7 {
+    padding: 5px;
+    font-weight: italic;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#exercicio7 input {
+    width: 5%;
+}
+
+#divCalculadora input {
+    width: 3%;
+    margin: 3px;
+}
